@@ -2,8 +2,7 @@
 
 ## Overview
 
-This project involves the analysis of the [Titanic dataset](https://github.com/srujithadevineni11/Titanic_data_analysis_Sql/blob/main/titanic.csv) using MySQL. The dataset provides information on employee salaries in the city of San Francisco, including details such as job titles, overtime pay, and total compensation.
-
+This project involves the analysis of the [Titanic dataset](https://github.com/srujithadevineni11/Titanic_data_analysis_Sql/blob/main/titanic.csv) using MySQL. The dataset provides information on PassengerID,Survived,Pclass,Name,Sex,Age	SibSp,Parch,Ticket,Fare,Cabin,Embarked
 
 ## Instructions for Use
 
