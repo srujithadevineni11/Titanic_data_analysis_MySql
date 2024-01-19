@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project involves the analysis of the [San Francisco Salaries dataset](https://www.kaggle.com/datasets/aakarkale/sf-salaries-dataset) using MySQL. The dataset provides information on employee salaries in the city of San Francisco, including details such as job titles, overtime pay, and total compensation.
+This project involves the analysis of the [Titanic dataset](https://github.com/srujithadevineni11/Titanic_data_analysis_Sql/blob/main/titanic.csv) using MySQL. The dataset provides information on employee salaries in the city of San Francisco, including details such as job titles, overtime pay, and total compensation.
 
 
 ## Instructions for Use
@@ -10,7 +10,7 @@ This project involves the analysis of the [San Francisco Salaries dataset](https
 To replicate the analysis, follow these steps:
 
 1. **Download the Dataset:**
-   - Download the [San Francisco Salaries dataset](https://www.kaggle.com/datasets/aakarkale/sf-salaries-dataset) from Kaggle.
+   - Download the [Titanic dataset](https://github.com/srujithadevineni11/Titanic_data_analysis_Sql/blob/main/titanic.csv) 
 
 2. **Set Up the Database:**
    - Create a MySQL database .
